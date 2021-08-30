@@ -1,0 +1,23 @@
+{
+  "name": "stream-slots-script",
+  "version": "1.0.0",
+  "description": "Slots script for streamers",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taragon123/Stream-slots-script.git"
+  },
+  "keywords": [
+    "stream",
+    "slots"
+  ],
+  "author": "Taragon123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taragon123/Stream-slots-script/issues"
+  },
+  "homepage": "https://github.com/Taragon123/Stream-slots-script#readme"
+}

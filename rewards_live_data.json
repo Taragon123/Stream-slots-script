@@ -1,0 +1,107 @@
+{
+    "standard": {
+        "15 squats": {
+            "count": 20,
+            "weight": 1,
+            "percent": 0.137
+        },
+        "15 pushups": {
+            "count": 20,
+            "weight": 1,
+            "percent": 0.137
+        },
+        "15 situps": {
+            "count": 20,
+            "weight": 1,
+            "percent": 0.137
+        },
+        "Gift sub": {
+            "count": 2,
+            "weight": 1,
+            "percent": 0.0137
+        },
+        "VIP": {
+            "count": 1,
+            "weight": 1,
+            "percent": 0.0068
+        },
+        "Personal Drawing": {
+            "count": 10,
+            "weight": 1,
+            "percent": 0.0685
+        },
+        "Free channel point redeem": {
+            "count": 15,
+            "weight": 1,
+            "percent": 0.1027
+        },
+        "Left hand mode": {
+            "count": 8,
+            "weight": 2,
+            "percent": 0.1096
+        },
+        "You get nothing": {
+            "count": 6,
+            "weight": 1,
+            "percent": 0.0411
+        },
+        "Squat map": {
+            "count": 3,
+            "weight": 1,
+            "percent": 0.0205
+        },
+        "Jackpot": {
+            "count": 2,
+            "weight": 1,
+            "percent": 0.0137
+        },
+        "Miss saber": {
+            "count": 8,
+            "weight": 1,
+            "percent": 0.0548
+        },
+        "Add a tie": {
+            "count": 3,
+            "weight": 1,
+            "percent": 0.0205
+        },
+        "Change camera angle": {
+            "count": 5,
+            "weight": 1,
+            "percent": 0.0342
+        },
+        "Modify my HSV": {
+            "count": 4,
+            "weight": 2,
+            "percent": 0.0548
+        },
+        "Mystery prize": {
+            "count": 7,
+            "weight": 1,
+            "percent": 0.0479
+        }
+    },
+    "mystery": [
+        "OhICanSee",
+        "Did you hear that?",
+        "I've trained for this",
+        "Exclusive custom role on discord",
+        "A mysterious pill",
+        "D: you just got mugged FeelsBadMan",
+        "I'll make you a shit post map"
+    ],
+    "event": {
+        "Double that": {
+            "count": 1,
+            "weight": 1
+        },
+        "Make it rain": {
+            "count": 3,
+            "weight": 1
+        },
+        "Giveaway": {
+            "count": 3,
+            "weight": 1
+        }
+    }
+}
