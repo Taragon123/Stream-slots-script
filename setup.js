@@ -16,3 +16,17 @@ function write_file(data, name, isJson) {
         }
     });
 }
+
+const REWARD_CONFIG_TEMPLATE = {
+    "standard" : {},
+    "mystery" : [],
+    "event" : {}
+}
+
+const CONFIG_TEMPLATE = {
+    "isEvent" : false,
+    "multiplier" : 1
+}
+
+// if reward config does not exist, wtire template to file
+// if config does not exist, write template to file
