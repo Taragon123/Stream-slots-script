@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Ignore all data json files
+# config.json
+# rewards_config.json
+# rewards_live_data.json

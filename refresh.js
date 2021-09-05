@@ -84,6 +84,7 @@ function main() {
     // Fetch config files
     var rewardsConfig = require('./rewards_config.json');
     var config = require('./config.json');
+    // TODO: catch if they exist
 
     // Initial setup and resets generated text files for displays
     //      Event config is handeled here
